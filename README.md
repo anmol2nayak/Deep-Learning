@@ -63,5 +63,5 @@ The model demonstrated strong generalization with the following weighted average
 * Integration of **object detection** to pinpoint the exact location of the disease on the leaf.
 
 ---
-**Author:** [Your Name]
-**License:** [Choose a license, e.g., MIT]
+**Author:** [Anmol]
+**License:** [MIT 2025]
