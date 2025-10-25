@@ -115,7 +115,7 @@ Deep-Learning/
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) (or specify whichever you choose).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
